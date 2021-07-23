@@ -36,3 +36,6 @@ if __name__ == '__main__':
     for i in range(loop_num):
        ............
 ```
+
+#输出演示
+![fake_back_9](https://user-images.githubusercontent.com/51184391/126821277-54e02465-1506-4700-b3c2-5308bd3debcc.png)
